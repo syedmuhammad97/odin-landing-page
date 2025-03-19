@@ -73,4 +73,36 @@ button{
 
 .introduction img{
     padding-right: 50px;
+    width: 500px;
+    height: fit-content;
+}
+
+footer{
+    background-color: #1F2937;
+    color: #e5e7eb;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.quote{
+    background-color: #e5e7eb;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    padding: 20px;
+}
+
+.author{
+    text-align: end;
+    padding-right: 100px;
 }
